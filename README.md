@@ -4,7 +4,6 @@ The calculator stores the last history result to perform other operations with t
 
 For the future, I would like to integrate the features of a scientific calculator
 
-My code is accessible on the master branch.
 To test you must write the following commands in the terminal : 
 - git clone https://github.com/Vassili7115/calculator-ekino.git and git pull origin master
 - npm install
